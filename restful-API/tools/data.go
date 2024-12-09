@@ -4,7 +4,7 @@ import "sync"
 
 type Tool struct {
 	Name			string `json:"name"`
-	Ddescription	string `json:"description"`
+	Description	string `json:"description"`
 	Category		string `json:"category"` 
 } 
 
