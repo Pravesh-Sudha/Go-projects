@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your GitHub repository:
-
----
-
 # 3 Go-lang Projects
 
 Welcome to the **3 Go-lang Projects** repository! This collection contains three beginner-to-intermediate-level Go projects tailored for DevOps enthusiasts and programmers learning Go. These projects demonstrate practical applications of Go for system monitoring, web services, and RESTful API development.
